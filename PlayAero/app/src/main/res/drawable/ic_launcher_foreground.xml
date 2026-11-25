@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M54,54m-31,0a31,31 0,1 1,62 0a31,31 0,1 1,-62 0" android:strokeColor="#E6FFFFFF" android:strokeWidth="1.6">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="54" android:startY="23" android:endX="54" android:endY="85">
+                <item android:offset="0" android:color="#CCFFFFFF" />
+                <item android:offset="1" android:color="#334FC3F7" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M54,54m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="54" android:startY="29" android:endX="54" android:endY="79">
+                <item android:offset="0" android:color="#FF7BE8FF" />
+                <item android:offset="0.5" android:color="#FF0FA6E8" />
+                <item android:offset="1" android:color="#FF0366B5" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#FFFFFFFF" android:pathData="M47,41.5 L47,66.5 L68,54 Z" android:strokeColor="#FFFFFFFF" android:strokeWidth="3" android:strokeLineJoin="round" />
+    <path android:pathData="M34,46 Q54,22 74,46 Q54,36 34,46 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="54" android:startY="26" android:endX="54" android:endY="46">
+                <item android:offset="0" android:color="#D9FFFFFF" />
+                <item android:offset="1" android:color="#14FFFFFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#99FFFFFF" android:pathData="M80,34m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+    <path android:fillColor="#80FFFFFF" android:pathData="M28,74m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>
